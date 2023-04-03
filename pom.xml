@@ -76,5 +76,6 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>
+</build>
+<--change by lhc-->
 </project>
