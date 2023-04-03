@@ -78,5 +78,5 @@
         </plugins>
     </build>
     <--修改hot-fix-->
-    <--master修改-->
+    <<--手动合并master和hot-fix-->
 </project>
